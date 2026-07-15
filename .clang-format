@@ -9,3 +9,4 @@ AllowShortBlocksOnASingleLine: Empty
 AllowShortFunctionsOnASingleLine: Empty
 AllowShortCaseLabelsOnASingleLine: false
 AllowShortLoopsOnASingleLine: true
+AllowShortEnumsOnASingleLine: false
